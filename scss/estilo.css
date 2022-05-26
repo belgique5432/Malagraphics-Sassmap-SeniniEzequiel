@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Akshar:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+.nav-link {
+  background-color: #e2e2e2;
+  font-size: 26px;
+}
+
+body {
+  font-family: "Work Sans";
+}
+
+.navbar {
+  font-family: "Akshar";
+  font-size: 20px;
+  background-color: #373638;
+  height: 5rem;
+  z-index: 3;
+}
+
+.navbar .nav-item {
+  font-family: "Work Sans";
+}
+
+.navbar .collapse {
+  background-color: #373638;
+  border: none;
+}
+
+.navbar .btn {
+  font-size: 24px;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+img {
+  width: 100%;
+}
+
+.minicontainer {
+  text-align: center;
+  border: 2px solid yellow;
+  border-radius: 10px;
+}
+
+section {
+  margin-top: 30vh;
+  height: 30rem;
+}
+/*# sourceMappingURL=estilo.css.map */
